@@ -1,0 +1,5 @@
+Verification successful:
+- Drizzle ORM test script: Connected & queried products.
+- Browser test: Registration persisted, session maintained, inventory fetched from DB.
+- Database path: Absolute path using process.cwd() for robustness.
+- Migrations: Generated and saved in the 'drizzle' folder.
